@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework", "Homework\Homework.vcxproj", "{52474B28-A2D5-4644-818E-3C98F43EB425}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Subscript operator in String DONE", "Subscript operator in String DONE\Subscript operator in String DONE.vcxproj", "{0B307236-E86B-4113-827F-2523A111AC98}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Caling constractors DONE", "Caling constractors DONE\Caling constractors DONE.vcxproj", "{3002F633-4A7B-4590-A1E8-AB8C782A2BD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{0B307236-E86B-4113-827F-2523A111AC98}.Release|x64.Build.0 = Release|x64
 		{0B307236-E86B-4113-827F-2523A111AC98}.Release|x86.ActiveCfg = Release|Win32
 		{0B307236-E86B-4113-827F-2523A111AC98}.Release|x86.Build.0 = Release|Win32
+		{3002F633-4A7B-4590-A1E8-AB8C782A2BD0}.Debug|x64.ActiveCfg = Debug|x64
+		{3002F633-4A7B-4590-A1E8-AB8C782A2BD0}.Debug|x64.Build.0 = Debug|x64
+		{3002F633-4A7B-4590-A1E8-AB8C782A2BD0}.Debug|x86.ActiveCfg = Debug|Win32
+		{3002F633-4A7B-4590-A1E8-AB8C782A2BD0}.Debug|x86.Build.0 = Debug|Win32
+		{3002F633-4A7B-4590-A1E8-AB8C782A2BD0}.Release|x64.ActiveCfg = Release|x64
+		{3002F633-4A7B-4590-A1E8-AB8C782A2BD0}.Release|x64.Build.0 = Release|x64
+		{3002F633-4A7B-4590-A1E8-AB8C782A2BD0}.Release|x86.ActiveCfg = Release|Win32
+		{3002F633-4A7B-4590-A1E8-AB8C782A2BD0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
