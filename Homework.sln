@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calling constructors", "Cal
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Inheritance day", "Inheritance day\Inheritance day.vcxproj", "{9014024F-1EB6-4BD5-B9D5-BF94481F2865}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graduate DONE", "Graduate DONE\Graduate DONE.vcxproj", "{5649B396-B943-4DDF-A7FA-865BC9AE1B5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{9014024F-1EB6-4BD5-B9D5-BF94481F2865}.Release|x64.Build.0 = Release|x64
 		{9014024F-1EB6-4BD5-B9D5-BF94481F2865}.Release|x86.ActiveCfg = Release|Win32
 		{9014024F-1EB6-4BD5-B9D5-BF94481F2865}.Release|x86.Build.0 = Release|Win32
+		{5649B396-B943-4DDF-A7FA-865BC9AE1B5D}.Debug|x64.ActiveCfg = Debug|x64
+		{5649B396-B943-4DDF-A7FA-865BC9AE1B5D}.Debug|x64.Build.0 = Debug|x64
+		{5649B396-B943-4DDF-A7FA-865BC9AE1B5D}.Debug|x86.ActiveCfg = Debug|Win32
+		{5649B396-B943-4DDF-A7FA-865BC9AE1B5D}.Debug|x86.Build.0 = Debug|Win32
+		{5649B396-B943-4DDF-A7FA-865BC9AE1B5D}.Release|x64.ActiveCfg = Release|x64
+		{5649B396-B943-4DDF-A7FA-865BC9AE1B5D}.Release|x64.Build.0 = Release|x64
+		{5649B396-B943-4DDF-A7FA-865BC9AE1B5D}.Release|x86.ActiveCfg = Release|Win32
+		{5649B396-B943-4DDF-A7FA-865BC9AE1B5D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
