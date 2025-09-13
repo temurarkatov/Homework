@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fraction day1", "Fraction d
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Operators in progress", "Operators in progress\Operators in progress.vcxproj", "{F786C8E4-747A-458A-B1D2-CF35AF08990A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Comparison operators", "Comparison operators\Comparison operators.vcxproj", "{D12475CE-CDB8-406A-9BF8-2F8930D5D5CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{F786C8E4-747A-458A-B1D2-CF35AF08990A}.Release|x64.Build.0 = Release|x64
 		{F786C8E4-747A-458A-B1D2-CF35AF08990A}.Release|x86.ActiveCfg = Release|Win32
 		{F786C8E4-747A-458A-B1D2-CF35AF08990A}.Release|x86.Build.0 = Release|Win32
+		{D12475CE-CDB8-406A-9BF8-2F8930D5D5CC}.Debug|x64.ActiveCfg = Debug|x64
+		{D12475CE-CDB8-406A-9BF8-2F8930D5D5CC}.Debug|x64.Build.0 = Debug|x64
+		{D12475CE-CDB8-406A-9BF8-2F8930D5D5CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{D12475CE-CDB8-406A-9BF8-2F8930D5D5CC}.Debug|x86.Build.0 = Debug|Win32
+		{D12475CE-CDB8-406A-9BF8-2F8930D5D5CC}.Release|x64.ActiveCfg = Release|x64
+		{D12475CE-CDB8-406A-9BF8-2F8930D5D5CC}.Release|x64.Build.0 = Release|x64
+		{D12475CE-CDB8-406A-9BF8-2F8930D5D5CC}.Release|x86.ActiveCfg = Release|Win32
+		{D12475CE-CDB8-406A-9BF8-2F8930D5D5CC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
