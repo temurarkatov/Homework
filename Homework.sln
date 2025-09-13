@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Subscript operator in Strin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Caling constractors DONE", "Caling constractors DONE\Caling constractors DONE.vcxproj", "{3002F633-4A7B-4590-A1E8-AB8C782A2BD0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fraction day1", "Fraction day1\Fraction day1.vcxproj", "{7C7FE431-C0C1-49C9-8901-9F849EF3F154}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{3002F633-4A7B-4590-A1E8-AB8C782A2BD0}.Release|x64.Build.0 = Release|x64
 		{3002F633-4A7B-4590-A1E8-AB8C782A2BD0}.Release|x86.ActiveCfg = Release|Win32
 		{3002F633-4A7B-4590-A1E8-AB8C782A2BD0}.Release|x86.Build.0 = Release|Win32
+		{7C7FE431-C0C1-49C9-8901-9F849EF3F154}.Debug|x64.ActiveCfg = Debug|x64
+		{7C7FE431-C0C1-49C9-8901-9F849EF3F154}.Debug|x64.Build.0 = Debug|x64
+		{7C7FE431-C0C1-49C9-8901-9F849EF3F154}.Debug|x86.ActiveCfg = Debug|Win32
+		{7C7FE431-C0C1-49C9-8901-9F849EF3F154}.Debug|x86.Build.0 = Debug|Win32
+		{7C7FE431-C0C1-49C9-8901-9F849EF3F154}.Release|x64.ActiveCfg = Release|x64
+		{7C7FE431-C0C1-49C9-8901-9F849EF3F154}.Release|x64.Build.0 = Release|x64
+		{7C7FE431-C0C1-49C9-8901-9F849EF3F154}.Release|x86.ActiveCfg = Release|Win32
+		{7C7FE431-C0C1-49C9-8901-9F849EF3F154}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
