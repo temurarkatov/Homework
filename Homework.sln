@@ -15,7 +15,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Operators in progress", "Op
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Comparison operators", "Comparison operators\Comparison operators.vcxproj", "{D12475CE-CDB8-406A-9BF8-2F8930D5D5CC}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Have a nice day DONE", "Have a nice day DONE\Have a nice day DONE.vcxproj", "{F627D12C-9810-47FD-A6C6-AB11DAF1D973}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "operator double DONE", "Have a nice day DONE\Have a nice day DONE.vcxproj", "{F627D12C-9810-47FD-A6C6-AB11DAF1D973}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calling constructors", "Calling constructors\Calling constructors.vcxproj", "{F6349E90-D763-45A3-8BEB-153C507C3F3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,14 @@ Global
 		{F627D12C-9810-47FD-A6C6-AB11DAF1D973}.Release|x64.Build.0 = Release|x64
 		{F627D12C-9810-47FD-A6C6-AB11DAF1D973}.Release|x86.ActiveCfg = Release|Win32
 		{F627D12C-9810-47FD-A6C6-AB11DAF1D973}.Release|x86.Build.0 = Release|Win32
+		{F6349E90-D763-45A3-8BEB-153C507C3F3D}.Debug|x64.ActiveCfg = Debug|x64
+		{F6349E90-D763-45A3-8BEB-153C507C3F3D}.Debug|x64.Build.0 = Debug|x64
+		{F6349E90-D763-45A3-8BEB-153C507C3F3D}.Debug|x86.ActiveCfg = Debug|Win32
+		{F6349E90-D763-45A3-8BEB-153C507C3F3D}.Debug|x86.Build.0 = Debug|Win32
+		{F6349E90-D763-45A3-8BEB-153C507C3F3D}.Release|x64.ActiveCfg = Release|x64
+		{F6349E90-D763-45A3-8BEB-153C507C3F3D}.Release|x64.Build.0 = Release|x64
+		{F6349E90-D763-45A3-8BEB-153C507C3F3D}.Release|x86.ActiveCfg = Release|Win32
+		{F6349E90-D763-45A3-8BEB-153C507C3F3D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
