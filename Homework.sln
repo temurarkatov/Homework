@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ostream operator in Academy
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HumanFactory", "HumanFactory\HumanFactory.vcxproj", "{C4516FDF-7862-43E1-87AF-D6AF253FCEBE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Academy MissionComplete", "Academy MissionComplete\Academy MissionComplete.vcxproj", "{85643EE6-E8A2-477C-832F-4EC4FC1724A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{C4516FDF-7862-43E1-87AF-D6AF253FCEBE}.Release|x64.Build.0 = Release|x64
 		{C4516FDF-7862-43E1-87AF-D6AF253FCEBE}.Release|x86.ActiveCfg = Release|Win32
 		{C4516FDF-7862-43E1-87AF-D6AF253FCEBE}.Release|x86.Build.0 = Release|Win32
+		{85643EE6-E8A2-477C-832F-4EC4FC1724A0}.Debug|x64.ActiveCfg = Debug|x64
+		{85643EE6-E8A2-477C-832F-4EC4FC1724A0}.Debug|x64.Build.0 = Debug|x64
+		{85643EE6-E8A2-477C-832F-4EC4FC1724A0}.Debug|x86.ActiveCfg = Debug|Win32
+		{85643EE6-E8A2-477C-832F-4EC4FC1724A0}.Debug|x86.Build.0 = Debug|Win32
+		{85643EE6-E8A2-477C-832F-4EC4FC1724A0}.Release|x64.ActiveCfg = Release|x64
+		{85643EE6-E8A2-477C-832F-4EC4FC1724A0}.Release|x64.Build.0 = Release|x64
+		{85643EE6-E8A2-477C-832F-4EC4FC1724A0}.Release|x86.ActiveCfg = Release|Win32
+		{85643EE6-E8A2-477C-832F-4EC4FC1724A0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
