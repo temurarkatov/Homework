@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Recursion", "Recursion\Recu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinaryTree day1", "BinaryTree day1\BinaryTree day1.vcxproj", "{561F2696-2C31-4242-B0EE-42A8F1060608}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Erase DONE", "Erase DONE\Erase DONE.vcxproj", "{3CBC80E6-B1C9-4E40-BC65-8D04180557D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -231,6 +233,14 @@ Global
 		{561F2696-2C31-4242-B0EE-42A8F1060608}.Release|x64.Build.0 = Release|x64
 		{561F2696-2C31-4242-B0EE-42A8F1060608}.Release|x86.ActiveCfg = Release|Win32
 		{561F2696-2C31-4242-B0EE-42A8F1060608}.Release|x86.Build.0 = Release|Win32
+		{3CBC80E6-B1C9-4E40-BC65-8D04180557D6}.Debug|x64.ActiveCfg = Debug|x64
+		{3CBC80E6-B1C9-4E40-BC65-8D04180557D6}.Debug|x64.Build.0 = Debug|x64
+		{3CBC80E6-B1C9-4E40-BC65-8D04180557D6}.Debug|x86.ActiveCfg = Debug|Win32
+		{3CBC80E6-B1C9-4E40-BC65-8D04180557D6}.Debug|x86.Build.0 = Debug|Win32
+		{3CBC80E6-B1C9-4E40-BC65-8D04180557D6}.Release|x64.ActiveCfg = Release|x64
+		{3CBC80E6-B1C9-4E40-BC65-8D04180557D6}.Release|x64.Build.0 = Release|x64
+		{3CBC80E6-B1C9-4E40-BC65-8D04180557D6}.Release|x86.ActiveCfg = Release|Win32
+		{3CBC80E6-B1C9-4E40-BC65-8D04180557D6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
